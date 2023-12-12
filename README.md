@@ -3,7 +3,7 @@
 ### <div align="center">I'm Charan, a full-time frontend developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working as a software engineer in JTC
+- 🔭 I worked as a software engineer in JTC
   
 
 - 🌱 I’m currently learning MongoDB, Node.JS 
