@@ -44,6 +44,13 @@
 | **[LazeyMarkdown](https://github.com/ksrscharan/lazeymarkdown)** | Offline-first editor with IndexedDB. | Dexie.js, React, GFM |
 
 ---
+## My Contributions
+<div align="center">
+<br/>
+<img src="https://ghchart.rshah.org/ksrscharan" />
+</div>
+
+---
 
 ## 🤝 Connect with Me
 <div align="center">
